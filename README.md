@@ -12,3 +12,5 @@ Jika dipilih CETAK ANTRIAN : komputer menampilkan karakter
 yang ada pada antrian
 Jika dipilih QUIT : program keluar
 
+![Screenshot from 2023-10-07 02-04-12](https://github.com/Hariisdermawan3/CIRCULAR.QUEUE/assets/134305800/deeba1f4-396f-478c-b998-b377f474a165)
+
